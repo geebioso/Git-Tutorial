@@ -20,7 +20,7 @@ https://help.github.com/articles/adding-an-existing-project-to-github-using-the-
 ### Cloning a Repository 
 
 To clone this repository, type 
-```python
+```shell
 git clone https://github.com/geebioso/Git-Tutorial
 ```
 
