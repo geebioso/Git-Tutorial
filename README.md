@@ -12,16 +12,17 @@ Windows users can install git [here](http://git-scm.com/download/win ) and can u
 
 Full install instructions can be found [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
+## Git Basics 
 ### Create a Repository 
 
 https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
 
-## Cloning a Repository 
+### Cloning a Repository 
 
 To clone this repository, type 
 ```git clone https://github.com/geebioso/Git-Tutorial```
 
-## Basic Commands
+### Basic Commands
 
 `git status`: shows tracked and untracked files and which files are behind the latest commit 
 `git add [file]`: adds a file to be committed 
@@ -38,11 +39,12 @@ To clone this repository, type
 
 After checking out a branch, you can add files, commit and push to that branch. To commit changes to master, intiate a [pull request](https://help.github.com/articles/about-pull-requests/). To switch branches back to master, type `git checkout master`.
 
-## Git Documentation
+## Extras
+### Git Documentation
 
 To find documentation on any git command, type
 ```git --help [command]```
 
-## Git Directory 
+### Git Directory 
 
 You can view how git is tracking changes in the .git directory in your [git repository](https://githowto.com/git_internals_git_directory). If you remove the .git directory, your local directory will no longer be a repository. 
