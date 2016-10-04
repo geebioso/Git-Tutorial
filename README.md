@@ -24,18 +24,18 @@ To clone this repository, type
 
 ### Basic Commands
 
-`git status`: shows tracked and untracked files and which files are behind the latest commit 
-`git add [file]`: adds a file to be committed 
-`git reset [file]`: resets a file that was added to be commited 
-`git commit -m [message]`: commits all files that were added 
-`git push`: pushes the latest commit to the remote repository 
+```git status```: shows tracked and untracked files and which files are behind the latest commit 
+```git add [file]```: adds a file to be committed 
+```git reset [file]```: resets a file that was added to be commited 
+```git commit -m [message]```: commits all files that were added 
+```git push```: pushes the latest commit to the remote repository 
 
 ## Branches 
 
-`git branch`: gives a list of available branches and which branch you are in 
-`git checkout -b [branchname]`: checks out a branch 
-`git pull origin master`: merges your local branch with code on master ([advanced reading](http://longair.net/blog/2009/04/16/git-fetch-and-merge/)
-`git pull`: pulls the latest changes from your remote branch 
+```git branch```: gives a list of available branches and which branch you are in 
+```git checkout -b [branchname]```: checks out a branch 
+```git pull origin master```: merges your local branch with code on master ([advanced reading](http://longair.net/blog/2009/04/16/git-fetch-and-merge/)
+```git pull```: pulls the latest changes from your remote branch 
 
 After checking out a branch, you can add files, commit and push to that branch. To commit changes to master, intiate a [pull request](https://help.github.com/articles/about-pull-requests/). To switch branches back to master, type `git checkout master`.
 
