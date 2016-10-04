@@ -10,7 +10,7 @@ from the terminal.
 
 Windows users can install git [here](http://git-scm.com/download/win ) and can use it through the command prompt. 
 
-Full install instructions can be found [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+Full install instructions can be found [here.](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Git Basics 
 ### Create a Repository 
@@ -48,3 +48,13 @@ To find documentation on any git command, type
 ### Git Directory 
 
 You can view how git is tracking changes in the .git directory in your [git repository](https://githowto.com/git_internals_git_directory). If you remove the .git directory, your local directory will no longer be a repository. 
+
+
+### Git Pages 
+
+You can use [git pages](https://pages.github.com/) to host a website. The basic idea is you initialize a git repository with an index.html file that contains your html code. For example my directory `geebioso` links to geebioso.github.io. A good example is [colah.github.io](http://colah.github.io/). 
+
+
+```python
+print 'Hello world!'
+```
