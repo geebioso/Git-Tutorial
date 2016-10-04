@@ -20,7 +20,9 @@ https://help.github.com/articles/adding-an-existing-project-to-github-using-the-
 ### Cloning a Repository 
 
 To clone this repository, type 
-```git clone https://github.com/geebioso/Git-Tutorial```
+```python
+git clone https://github.com/geebioso/Git-Tutorial
+```
 
 ### Basic Commands
 
@@ -54,7 +56,3 @@ You can view how git is tracking changes in the .git directory in your [git repo
 
 You can use [git pages](https://pages.github.com/) to host a website. The basic idea is you initialize a git repository with an index.html file that contains your html code. For example my directory `geebioso` links to geebioso.github.io. A good example is [colah.github.io](http://colah.github.io/). 
 
-
-```python
-print 'Hello world!'
-```
