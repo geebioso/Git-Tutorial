@@ -55,9 +55,10 @@ To find documentation on any git command, type
 ```git --help [command]```
 
 ### Tutorials 
-*Git Tags*: http://alblue.bandlem.com/2011/04/git-tip-of-week-tags.html    
-*Undoing changes*: https://www.atlassian.com/git/tutorials/undoing-changes/git-revert    
-*Git stash*: https://www.atlassian.com/git/tutorials/git-stash    
+**Git Tags**: http://alblue.bandlem.com/2011/04/git-tip-of-week-tags.html    
+**Undoing changes**: https://www.atlassian.com/git/tutorials/undoing-changes/git-revert    
+**Git stash**: https://www.atlassian.com/git/tutorials/git-stash    
+**Resolving Conflicts**: https://githowto.com/resolving_conflicts, https://easyengine.io/tutorials/git/git-resolve-merge-conflicts/
 
 ### .git Directory 
 
